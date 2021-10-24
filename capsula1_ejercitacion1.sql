@@ -11,4 +11,4 @@ INSERT into CURSO VALUES (3, NULL, NULL,"Tarde",45);
 INSERT into CURSO VALUES (102, "Quimica", "","Noche",20);
 
 UPDATE CURSO SET cupo = 25;
-DELETE FROM CURSO WHERE nombre = " Algoritmos"
+DELETE FROM CURSO WHERE nombre = "Algoritmos"
